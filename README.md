@@ -3,7 +3,7 @@
 ### 👨‍💻 Desenvolvedor focado em Java e no Ecossistema JavaScript (React & Tailwind)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Stats do Guilherme" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guidev2026&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Stats do Guilherme" />
 </div>
 
 ---
