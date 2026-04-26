@@ -28,7 +28,7 @@
 ### 📊 Linguagens mais utilizadas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidev2026&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </div>
 
 ---
